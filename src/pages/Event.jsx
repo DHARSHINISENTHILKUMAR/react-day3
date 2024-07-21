@@ -1,5 +1,5 @@
 import React from 'react';
-import './Events.css';
+import './Event.css';
 import event1 from '../assets/im1.jpg';
 import event2 from '../assets/im2.jpg';
 import event3 from '../assets/im3.jpg';
